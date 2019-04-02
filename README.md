@@ -1,0 +1,2 @@
+# Siamese-Network-For-Identifying-Duplicate-Question-Pairs
+Project Aims To Identify Similar(QUORA) Question Pairs. Applied Siamese Network a special type of neural network which consists of two identical neural networks, each taking one of the two input question pairs. The last layers of the two networks are then fed to a Manhattan lstm model, which predicts the similarity between the two inputs by assigning a score of relevance. Solved the problem using two approaches for the same problem. 1) One Approach using Flair Embeddings. 2) Another Approach using Glove Embeddings
